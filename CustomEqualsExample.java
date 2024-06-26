@@ -36,5 +36,9 @@ public class CustomEqualsExample {
 
         System.out.println("person1.equals(person2): " + person1.equals(person2));
         System.out.println("person1.equals(person3): " + person1.equals(person3));
+        System.out.println("done");
+
+
+
     }
 }
